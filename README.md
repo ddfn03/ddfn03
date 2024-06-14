@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Davide Del Franco Natale</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddfn03&label=Profile%20views&color=0e75b6&style=flat" alt="ddfn03" /> </p>
 
+<h3 align="center">A passionate Computer Science student about to graduate 
+<div> @Univeristà degli Studi di Salerno </div> </h3>
+<div align="center"> <a href="https://www.unisa.it"> <img src="https://github.com/Smo17817/Smo17817/assets/127348760/77285d15-e181-4f92-a8ba-f421728e1b6f" alt="UnisaLogo" width="80"/> </a> </div>
+
+
 - 🌱 I’m currently learning **Neural networks and Deep Learning**
 
 - 📫 How to reach me **davide.delfranco44@gmail.com**
